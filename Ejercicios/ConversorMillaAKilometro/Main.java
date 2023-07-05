@@ -1,4 +1,4 @@
-package Ejercicios.ConversorMillasKilometros;
+package Ejercicios.ConversorMillaAKilometro;
 
 import java.util.Scanner;
 
